@@ -1,0 +1,361 @@
+/*
+	@name web_1920___37
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content {
+	position: relative;
+	z-index: 2; /* Ensure this is above the Three.js canvas */
+  }
+#_bg__web_1920___37 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+
+
+	background:rgba(255,255,255,255);
+}
+
+
+
+
+#adobestock_719069549 {
+	top: -358px;
+	left: -476px;
+	width: 2396px;
+	height: 1438px;
+	z-index: -1.1;
+}
+
+#three-js-canvas-container {
+	width: 100%;
+	height: 100%; /* Or any other height */
+	position: relative; /* Or 'absolute', depending on your layout */
+	overflow: hidden; /* To ensure the canvas does not overflow the container */
+  }
+  
+
+#rectangle_50 {
+	top: 0px;
+	left: 0px;
+	width: 1922px;
+	height: 81px;
+	border: 1px solid #707070;
+	background:rgba(255,155,43,255);
+}
+
+
+#logo_teal {
+	top: 9px;
+	left: 51px;
+	width: 167px;
+	height: 60px;
+}
+
+
+#fiberon_logo_png {
+	top: -60px;
+	left: 179px;
+	width: 356px;
+	height: 200px;
+}
+#panchroma_png {
+	top: 9px;
+	left: 485px;
+	width: 185px;
+	height: 65px;
+}
+
+
+#rectangle_51 {
+	top: 106px;
+	left: 28px;
+	width: 1867px;
+	height: 103px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+	z-index: 0;
+}
+
+
+#panchroma_logo_png {
+	top: 109px;
+	left: 51px;
+	width: 273px;
+	height: 96px;
+}
+
+#icon_search {
+	top: 136px;
+	left: 1790px;
+	width: 41.00048828125px;
+	height: 41.000244140625px;
+}
+
+#search {
+	top: 0px;
+	left: 0px;
+	width: 41.00048828125px;
+	height: 41.000244140625px;
+}
+
+#see_more {
+	top: 120.5px;
+	left: 1577px;
+	width: 154.71948242188px;
+	height: 72px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 154.71948242188px;
+	height: 72px;
+	-ms-border-radius: 36px;
+	-o-border-radius: 36px;
+	-moz-border-radius: 36px;
+	-webkit-border-radius: 36px;
+	border-radius: 36px;
+	-ms-box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	-o-box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	-webkit-box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	-moz-box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	background:rgba(103,90,255,255);
+}
+
+
+#shop {
+	top: 18px;
+	left: 37px;
+	width: 75px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: center;
+	letter-spacing: 1.68px;
+	color:#ffffff;
+}
+
+
+#color_app {
+	top: 138px;
+	left: 710px;
+	width: 143px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: center;
+	letter-spacing: 1.68px;
+	color:#000000;
+}
+
+
+#collections {
+	top: 138px;
+	left: 955px;
+	width: 163px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: center;
+	letter-spacing: 1.68px;
+	color:#000000;
+}
+
+#see_more_ek1 {
+	top: 661.7529296875px;
+	left: 61px;
+	width: 130px;
+	height: 39.49365234375px;
+}
+
+#rectangle_1_ek1 {
+	opacity:0.5;
+	top: 18px;
+	left: 0px;
+	width: 130px;
+	height: 39.49365234375px;
+	-ms-border-radius: 19.75px;
+	-o-border-radius: 19.75px;
+	-moz-border-radius: 19.75px;
+	-webkit-border-radius: 19.75px;
+	border-radius: 19.75px;
+	-ms-box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	-o-box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	-webkit-box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	-moz-box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	box-shadow:0px 8px 15px 1px rgba(114,124,142,0.92);
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2 {
+	top: 23px;
+	left: 96px;
+	width: 28.79736328125px;
+	height: 29.6201171875px;
+	-ms-border-radius: 14.4px;
+	-o-border-radius: 14.4px;
+	-moz-border-radius: 14.4px;
+	-webkit-border-radius: 14.4px;
+	border-radius: 14.4px;
+	background:rgba(103,90,255,255);
+}
+
+
+#see_more_ek2 {
+	top: 30px;
+	left: 13px;
+	width: 71px;
+	height: 24px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 0.72px;
+	color:#ffffff;
+}
+
+
+#path_11 {
+	top: 32px;
+	left: 107px;
+	width: 7.582275390625px;
+	height: 12.51904296875px;
+}
+
+
+#panchroma_ {
+	top: 305px;
+	left: 61px;
+	width: 315px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 42px;
+	text-align: left;
+	letter-spacing: 2.52px;
+	color:#ffffff;
+}
+
+
+#vibrant_color_palette__customization {
+	top: 386px;
+	left: 61px;
+	width: 591px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 30px;
+	text-align: left;
+	letter-spacing: 1.8px;
+	color:#ffffff;
+}
+
+
+#introducing_new_colorful_and_customizable_filament_options_for_3d_printing_enthusiasts__these_filaments_offer_a_vibrant_array_of_colors__allowing_for_creative_expression_and_personalized_designs__with_customizable_features_like_blending_or_gradient_options {
+	top: 451px;
+	left: 61px;
+	width: 696px;
+	height: 194px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_52 {
+	top: 902px;
+	left: 28px;
+	width: 257px;
+	height: 158px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#__150 {
+	top: 911px;
+	left: 50px;
+	width: 171px;
+	height: 141px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 70px;
+	text-align: center;
+	letter-spacing: 4.2px;
+	color:#675aff;
+}
+
+
+#colors_and_finishes {
+	top: 1003px;
+	left: 59px;
+	width: 193px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 20px;
+	text-align: center;
+	letter-spacing: 1.2px;
+	color:#000000;
+}
+
+
+#rectangle_53 {
+	top: 902px;
+	left: 308px;
+	width: 349px;
+	height: 158px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#with_every_collection__we__strive_to_bring_a_new_color__in_a_different_application_and__surface_finish {
+	top: 925px;
+	left: 326px;
+	width: 327px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 1.2px;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
